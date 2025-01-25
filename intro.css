@@ -344,7 +344,7 @@ body{
     height: 100%;
     pointer-events: none;
 }
-.number2023{
+.number2025{
     position: absolute;
     display: flex;
     top: 63%;
@@ -356,7 +356,7 @@ body{
     color: rgb(255, 255, 0);
     font-size: 75px;
 }
-.number2023 .number:nth-child(1){
+.number2025 .number:nth-child(1){
     position: relative;
     top: -500px;
     animation: number1 1.5s 4.5s linear forwards;
@@ -483,17 +483,17 @@ body{
         transform-origin: left;
     }
 }
-.number2023 .number:nth-child(2){
+.number2025 .number:nth-child(2){
     position: relative;
     top: -500px;
     animation: number1 1.5s 5.5s linear forwards;
 }
-.number2023 .number:nth-child(3){
+.number2025 .number:nth-child(3){
     position: relative;
     top: -500px;
     animation: number1 1.5s 6.5s linear forwards;
 }
-.number2023 .number:nth-child(4){
+.number2025 .number:nth-child(4){
     position: relative;
     top: -500px;
     animation: number1 1.5s 7.5s linear forwards;
@@ -2008,7 +2008,7 @@ body{
     .box-flower{
         display: none;
     }
-    .number2023{
+    .number2025{
         top: 60%;
         font-size: 65px;
     }
@@ -2111,20 +2111,20 @@ body{
     .box-button{
         top: 90%;
     }
-    .number2023{
+    .number2025{
         font-size: 50px;
         top: 58%;
     }
-    .number2023 .number:nth-child(1){
+    .number2025 .number:nth-child(1){
         top: -600px;
     }
-    .number2023 .number:nth-child(2){
+    .number2025 .number:nth-child(2){
         top: -600px;
     }
-    .number2023 .number:nth-child(3){
+    .number2025 .number:nth-child(3){
         top: -600px;
     }
-    .number2023 .number:nth-child(4){
+    .number2025 .number:nth-child(4){
         top: -600px;
     }
  }
